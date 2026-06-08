@@ -2,4 +2,4 @@ Hello! My name is Gabriel Carrillo and I am a mechanical engineering major at UC
 
 In this repository you will see my contributions to the project includeing python programming, CAD modeling in fusion 360, FEA simulation in fusion, hand derived inverse kinamatic work, and 3d printing prototyping. 
 
-If you have any question about this projects future or me, please email me @ ga194891@ucf.edu
+If you have any question about this projects future or me, please email me @ gabecarr18@icloud.com
